@@ -5,8 +5,10 @@ __Opdrachtomschrijving__
 
 Bouw met Dreamweaver een website. De website bevat een nieuws- en productengedeelte.
 
+Deze opdracht hoeft niet responsive te worden gebouwd.
+
 __Uitwerking opdracht__
 
 [Live demo Game of Thrones](https://cmm-web-design-module-1-mm-2.netlify.app)
 
-![](./assets/The-Great-Houses-of-Westeros-Main-index.jpg)
+![Afbeelding van de Game of thrones website](./assets/The-Great-Houses-of-Westeros-Main-index.jpg)
