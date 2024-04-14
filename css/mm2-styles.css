@@ -140,6 +140,9 @@ header {
   border-radius: 0 0 50% 50%;
   position: fixed;
   z-index: 100;
+  -webkit-transition: padding 0.5s, box-shadow 0.5s, text-shadow 0.5s;
+  transition: box-shadow 0.5s, text-shadow 0.5s;
+  padding: 2px;
 }
 
 /* Logo */
